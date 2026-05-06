@@ -23,3 +23,4 @@ Built an Excel-based healthcare operations dashboard to monitor hospital KPIs su
 
 ## Outcome
 This project simulates hospital management reporting and demonstrates healthcare data analytics capabilities.
+<img width="1207" height="743" alt="Healthcare KPI tracker" src="https://github.com/user-attachments/assets/2bcf56a7-bb26-47d1-bed8-069918da9ae7" />
